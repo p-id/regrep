@@ -31,10 +31,11 @@ The common options to try out are 'make' or 'make tests'
 The default settings use Alpine Linux image [Busybox + musl-libc] for smaller footprint.
 
 # Reference
-Trigrams and Regexp - Google RE2 [https://github.com/google/re2]
-Build template - From 'The Kubernetes Authors' [https://github.com/thockin/go-build-template]
+
+ - *Trigrams and Regexp*. [Google RE2](https://github.com/google/re2)
+
+ - From *'The Kubernetes Authors'* [Golang Build Template](https://github.com/thockin/go-build-template)
 
 # About
 
-This project was created by [Piyush Dewnani]
-<[piyush@dewnani.net](mailto:piyush@dewnani.net)>.
+This project was created by [Piyush Dewnani](mailto:piyush@dewnani.net)
